@@ -52,7 +52,7 @@ Calculated the average time taken by customers to place their first order after 
 
 This project was integrated within the existing training project and hosted live (if applicable):
 
-**🔗 Live Dashboard:** [Netlify/Vercel Link Here]
+**🔗 Live Dashboard:** [https://lookerstudio.google.com/reporting/bded3a7a-3b75-4be8-87b6-31fb3a717b48]
 
 ---
 
