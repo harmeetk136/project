@@ -21,7 +21,7 @@ Analyzed and compared the product-wise sales quantity of the "Others" category b
 - Filtered data for 2021 and 2022
 - Merged by `sku_name`
 - Calculated:
-  - Absolute and percentage difference
+  - Percentage difference
   - Sales trend classification: "DOWN", "UP", "FAIR"
 - Visualized with a **horizontal bar chart**
 
