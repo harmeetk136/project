@@ -53,6 +53,7 @@ Calculated the average time taken by customers to place their first order after 
 This project was integrated within the existing training project and hosted live (if applicable):
 
 **🔗 Live Dashboard:** [https://lookerstudio.google.com/reporting/bded3a7a-3b75-4be8-87b6-31fb3a717b48]
+**🔗 Live Dashboard:** https://lookerstudio.google.com/reporting/40aecfcd-556e-4fce-b794-7cd12a4d4418][
 
 ---
 
