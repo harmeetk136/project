@@ -1,4 +1,5 @@
-# 📊 NULLCLASS Internship Project - Sales Analysis & Customer Behavior
+# 📊 NULLCLASS Internship Project 
+- Sales Analysis & Customer Behavior
 ---
 
 ## 📝 Project Overview
