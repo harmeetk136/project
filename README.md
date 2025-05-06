@@ -44,7 +44,6 @@ Calculated the average time taken by customers to place their first order after 
 
 - **Sales Decrease Chart:** `sales_decrease_chart.png`
 - **Customer Order Histogram:** `histogram.png`
-- **Scorecard Screenshot:** `scorecard_screenshot.png`
 
 ---
 ## 🚀 Dashboard
