@@ -58,6 +58,6 @@ This project was integrated within the existing training project and hosted live
 
 ## 📄 Internship Report
 
-The report detailing objectives, tasks, challenges, and outcomes is available in `Internship Assignment Report`.
+The report detailing objectives, tasks, challenges, and outcomes is available in `Internship Assignment Report.pdf`.
 
 ---
