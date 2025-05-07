@@ -2,7 +2,8 @@
 2. The Sales Team wants to analyze the average time it takes for customers to place their first order after registration. 
 * Create a calculated field to calculate the days between the customer registration date (registered_date) and 
 the first order date (order_date). Use the formula: DATE_DIFF(order_date, registered_date, DAY). 
-* Create a scorecard showing the average number of days for customers to place their first order. 
+* Create a scorecard showing the average number of days for customers to place their first order.
+* create a histogram to visualize the distribution of the time taken for customers to place their first order.
 */
 show databases;
 use project;
@@ -3239,9 +3240,6 @@ with first_order as (
 select avg(days_to_first_order) as avg_days_to_first_order
 from first_order;
 
-/*
-* create a histogram to visualize the distribution of the time taken for customers to place their first order.
-*/
 select 
 customer_name,
 datediff(min(order_date), min(registered_date)) as days_to_first_order
