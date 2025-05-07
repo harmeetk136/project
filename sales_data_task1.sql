@@ -3667,15 +3667,6 @@ INSERT INTO sales_data (order_id, sku_name, category, order_date, is_valid,qty_o
 
 select * from sales_data;
 
-/*
-1. Analyzing Sales Decrease in the "Others" Category Between 2021 and 2022 
-Scenario: The Warehouse Team has observed a surplus in the stock of "Others" category products at the end of 2022. 
-They would like to know if sales have declined in 2022 compared to 2021. 
-Additionally, they want to see the 20 products that experienced the largest decrease in sales. 
-Requirements: 1. Create two datasets: o One for sales data in 2021 (qty_ordered for "Others" category). 
-o One for sales data in 2022 (qty_ordered for "Others" category). 
-*/
-
 create view yr_2021 as
 select sku_name,sum(qty_ordered) as qty_ordered 
 from sales_data
@@ -3691,11 +3682,6 @@ group by sku_name;
 select * from yr_2021;
 select * from yr_2022;
 
-/*
-2. Merge the datasets and calculate the sales difference between 2022 and 2021. 
-3. Calculate the percentage change in sales and classify it as "DOWN", "UP", or "FAIR". 
-4. Sort the products by the largest decrease in sales and show the top 20 products. 
-*/
 
 select a.sku_name, 
 a.qty_ordered, 
