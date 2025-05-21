@@ -1,4 +1,4 @@
-# 📊 NULLCLASS Internship Project 
+# 📊 DATA ANALYST Internship Project 
 
 ---
 ## 📝 Project Overview
