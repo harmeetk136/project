@@ -47,8 +47,8 @@ Calculated the average time taken by customers to place their first order after 
 
 ---
 ## 🚀 Dashboard
-- **🔗 Live Dashboard:** martsales_dashboard.png
-- **🔗 Live Dashboard:** sales_dashboaed.png
+- **🔗 Live Dashboard:** sales_dashboard.png
+- **🔗 Live Dashboard:** martsales_dashboaed.png
 
 ---
 
